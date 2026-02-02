@@ -17,7 +17,7 @@ public class Stringpalin {
 	public static void main(String[] args) {
 		
 		Stringpalin s= new Stringpalin();
-		s.palindrome("MALAYALAM");
+		s.palindrome("MALAYALAM"); //palindrome string
 		s.palindrome("JAVA");
 
 	}
